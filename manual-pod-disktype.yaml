@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: manual-pod
+  name: manual-pod-disktype
 spec:
   containers:
   - name: manual
